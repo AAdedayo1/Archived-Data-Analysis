@@ -1,2 +1,2 @@
 # Archived-Data-Analysis
-This repository contains a notebook detailing the work that was done on a 1911 Charlotte North Carolina 
+This repository contains a notebook detailing work done on The 1911 Charlotte, North Carolina City Directory. The purpose of this exploration was to uncover patterns and trends of black businesses and employment in 1911 Charlotte, North Carolina, through data collection, cleaning, and manipulation with ABBYY FineReader and OpenRefine, as well as the creation of data visualizations using Tableau. 
